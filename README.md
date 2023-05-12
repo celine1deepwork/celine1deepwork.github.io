@@ -1,5 +1,4 @@
 
-# theme: hacker
 # celine1deepwork.github.io
 # H1
 ## H2
